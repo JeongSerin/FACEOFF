@@ -2,7 +2,7 @@
 
 `FACE OFF`는 손쉬운 사진 모자이크 웹 어플리케이션입니다.
 
-commit log: https://gitlab.com/tpfls410/faceoff
+commit log: https://gitlab.com/tpfls410/faceoff<br>
 :house: http://k3a207.p.ssafy.io/<br>
 📷 프로젝트 영상 : https://youtu.be/JiOxPSb5VR8
 
